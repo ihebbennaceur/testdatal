@@ -32,3 +32,9 @@ tables = detector.extract_tables("invoice.jpg")
 ## Model
 
 Uses pre-trained DETR model: https://huggingface.co/TahaDouaji/detr-doc-table-detection
+
+
+<img width="336" height="267" alt="image" src="https://github.com/user-attachments/assets/c82877b5-9433-4501-aef4-ee1503a4a861" />
+
+
+
